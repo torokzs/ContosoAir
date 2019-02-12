@@ -1,3 +1,5 @@
+[![Build Status](https://jator.visualstudio.com/ContosoAir/_apis/build/status/torokzs.ContosoAir?branchName=master)](https://jator.visualstudio.com/ContosoAir/_build/latest?definitionId=1&branchName=master)
+
 # Microsoft.Github CI Demo
 
 Demo website application for Contoso Air.  
